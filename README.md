@@ -1,6 +1,6 @@
-# Mobile Development
+# Cloud Computing
 
-## Path: Mobile Development
+## Path: Cloud Computing
 The Cloud Computing path is dedicated to learning and mastering the deployment, management, and scaling of applications and services on cloud platforms. This program equips you with the skills needed to leverage cloud technologies, ensuring high availability, scalability, and security for modern applications. You will gain hands-on experience with cloud services, helping you build efficient, flexible, and cost-effective cloud-based solutions.
 ---
 
