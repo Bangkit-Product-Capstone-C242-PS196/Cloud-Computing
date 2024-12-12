@@ -14,7 +14,8 @@ The Cloud Computing path is dedicated to learning and mastering the deployment, 
 ---
 
 ## Technologies Used
-[![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v1.png)](https://developer.android.com/studio) [](https://developer.android.com/studio)
-[![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)](https://kotlinlang.org/docs/home.html) [](https://kotlinlang.org/docs/home.html)
-[![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com) [](https://github.com)
+[![Compute Engine](https://img.icons8.com/?size=48&id=20776&format=png&color=000000)](https://cloud.google.com/products/compute?hl=en) [](https://cloud.google.com/products/compute?hl=en)
+[![Cloud Storage](![image](https://github.com/user-attachments/assets/b2fb4710-a661-4bc7-b6a9-00d50fc16760)
+)](https://cloud.google.com/storage?hl=en) [](https://cloud.google.com/storage?hl=en)
+[![Firestore](https://img.icons8.com/?size=48&id=SQEEoDcpUD6c&format=png&color=000000)](https://firebase.google.com/docs/firestore) [](https://firebase.google.com/docs/firestore)
 ---
