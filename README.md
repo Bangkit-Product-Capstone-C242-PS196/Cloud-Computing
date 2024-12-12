@@ -15,7 +15,7 @@ The Cloud Computing path is dedicated to learning and mastering the deployment, 
 
 ## Technologies Used
 [![Compute Engine](https://img.icons8.com/?size=48&id=20776&format=png&color=000000)](https://cloud.google.com/products/compute?hl=en) [](https://cloud.google.com/products/compute?hl=en)
-[![Cloud Storage](![image](https://github.com/user-attachments/assets/b2fb4710-a661-4bc7-b6a9-00d50fc16760)
+[![Cloud Storage](https://www.logo.wine/logo/Google_Storage)
 )](https://cloud.google.com/storage?hl=en) [](https://cloud.google.com/storage?hl=en)
 [![Firestore](https://img.icons8.com/?size=48&id=SQEEoDcpUD6c&format=png&color=000000)](https://firebase.google.com/docs/firestore) [](https://firebase.google.com/docs/firestore)
 ---
